@@ -4745,21 +4745,6 @@
     "lastIndex": 0
   },
   {
-    "url": "https://www.gocomics.com/ask-a-cat/2015/06/09",
-    "title": "Ask a Cat",
-    "imageUrl": "http://assets.amuniversal.com/24aeaf30f0480132ea14005056a9545d",
-    "imageSelector": ".item-comic-image img",
-    "imageIndex": 0,
-    "firstSelector": ".fa-backward",
-    "firstIndex": 0,
-    "prevSelector": ".fa-caret-left",
-    "prevIndex": 0,
-    "nextSelector": ".fa-caret-right",
-    "nextIndex": 0,
-    "lastSelector": ".fa-forward",
-    "lastIndex": 0
-  },
-  {
     "url": "https://www.gocomics.com/askshagg/2002/08/12",
     "title": "Ask Shagg",
     "imageUrl": "http://assets.amuniversal.com/6ab13f6a5017102dbf94001438c0f03b",
